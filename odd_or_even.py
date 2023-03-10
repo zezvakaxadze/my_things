@@ -1,3 +1,4 @@
+#odd or even app
 while True:
     n = input("write number and i will tell you it's odd or even, for exit write exit: ")
     if n.upper() == "EXIT":
