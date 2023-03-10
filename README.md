@@ -1,0 +1,2 @@
+# my_things
+only_learning_matherial_here_or_idk
