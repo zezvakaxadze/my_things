@@ -1,5 +1,5 @@
 # if only one number is a negative number print False
-# in another situations print True
+# in another situations print True heh
 
 a = input("write number: ")
 b = input("write number: ")
