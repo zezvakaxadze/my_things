@@ -5,6 +5,8 @@ c = 0
 
 for i in x:
     c += 1
+    if int(x) == 0:
+        print(True)
     if b == c and a < int(i):
         print(True)
     elif a < int(i):
