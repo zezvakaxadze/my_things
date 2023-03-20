@@ -7,6 +7,7 @@ import datetime
 # უმცირესი, თუ ორივე არგუმენტი არის ლუწი. სხვა შემთხვევაში ფუნქციამ უნდა
 # დააბრუნოს მათ შორის უდიდესი.
 
+
 def lesser_of_two_evens(num1, num2):
     if isinstance(num1, int) and isinstance(num2, int):
         nums = [num1, num2]
@@ -119,4 +120,3 @@ def print_data(day, month, year):
             return "Error.inavlid data."
     else:
         return "Error.inavlid data."
-
